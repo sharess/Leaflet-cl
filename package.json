@@ -1,5 +1,5 @@
 {
-  "name": "leaflet",
+  "name": "leaflet-cl",
   "version": "1.4.0",
   "description": "JavaScript library for mobile-friendly interactive maps",
   "devDependencies": {
